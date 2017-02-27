@@ -4,7 +4,7 @@
 // @description w/e
 // @include     http://facepunch.com/showthread.php*
 // @include     https://facepunch.com/showthread.php*
-// @downloadURL http://github.com/andyault/userscripts/raw/master/fp_auto_update/fp_auto_update.user.js
+// @downloadURL https://github.com/andyault/userscripts/raw/master/fp_auto_update/fp_auto_update.user.js
 // @version     1.1
 // ==/UserScript==
 
